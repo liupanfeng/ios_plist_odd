@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://10.234.129.26:8080/jenkins/job/Client-news-ios-odd/lastSuccessfulBuild/artifact/newsapp.ipa</string>
+					<string>https://download.ws.126.net/3g/client/offine/team1_ios_latest.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
